@@ -1,0 +1,48 @@
+header {
+  background-color: aqua;
+  padding: 2px;
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+header h2 {
+  font-weight: 900;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+#inputodo {
+  width: 350px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#inputodo:hover {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+#addtodo {
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#addtodo:hover {
+  background-color: gold;
+  color: white;
+}
+
+.parahraph-style {
+  margin: 1px;
+  padding: 5px;
+  width: 350px;
+  cursor: pointer;
+  font-size: 20px;
+  background-color: darkcyan;
+  color: white;
+}
